@@ -1,0 +1,1 @@
+First implementation of CRUD (Create Read Update Destroy) operations in GitHub Pages using Google Sheets and Google App Script.
